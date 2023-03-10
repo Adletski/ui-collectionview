@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "harry potter book cover illustration.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
